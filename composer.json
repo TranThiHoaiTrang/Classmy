@@ -1,0 +1,26 @@
+{
+    "name": "tranthihoaitrang/Classmy",
+    "description": "Manage Classmy",
+    "keywords": [
+        "tranthihoaitrang",
+        "laravel 5 package Classmy"
+    ],
+    "authors": [
+        {
+            "name": "Tranthihoaitrang",
+            "email": "Tranthihoaitrang@gmail.com",
+            "homepage": ""
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "foostart/package-slideshow": "*",
+        "foostart/package-filemanager": "*"
+    },
+    "autoload": {
+        "psr-4": {
+           "Tranthihoaitrang\\Classmy\\": "/" 
+        }
+    },
+    "minimum-stability": "dev"
+}
